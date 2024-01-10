@@ -1,0 +1,29 @@
+body{
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 0 10px;
+    line-height: 1.5;
+}
+
+h2{
+    font-weight: normal;
+    color: #808080;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: underline;
+    color: #0000ff;
+}
+
+section{
+    line-height: 2;
+}
+
+section:first-of-type{
+    padding-top: 20px;
+}
+
+hr{
+    border-color: #444;
+}

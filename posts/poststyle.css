@@ -1,0 +1,50 @@
+body{
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 0 10px;
+    line-height: 1.5;
+}
+
+h2{
+    font-weight: normal;
+    color: #808080;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: underline;
+    color: #0000ff;
+}
+
+#site-title{
+    text-decoration: none;
+    color: #444;
+}
+
+hr{
+    border-color: #444;
+}
+
+
+article{
+    padding-top: 20px;
+    line-height: 1.8;
+}
+
+ul, li{
+    list-style-type: disc;
+    margin-left: 10px;
+}
+
+h3{
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+article{
+    margin-bottom: 40px;
+}
